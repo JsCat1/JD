@@ -1,8 +1,8 @@
 /*
  * @Author: LXK9301 https://github.com/LXK9301
  * @Date: 2020-08-16 18:54:16
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2021-01-19 11:59:23
+ * @Last Modified by: LXK9301
+ * @Last Modified time: 2021-1-9 21:22:37
  */
 /*
 东东超市(活动入口：京东APP-》首页-》京东超市-》底部东东超市)

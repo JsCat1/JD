@@ -1,8 +1,8 @@
 /*
  * @Author: LXK9301 https://github.com/LXK9301
  * @Date: 2020-11-01 16:25:41
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2021-01-19 11:30:52
+ * @Last Modified by:   LXK9301
+ * @Last Modified time: 2020-12-22 10:25:41
  */
 /*
 京豆变动通知脚本：https://raw.githubusercontent.com/LXK9301/jd_scripts/master/jd_bean_change.js

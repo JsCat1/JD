@@ -1,8 +1,8 @@
 /*
  * @Author: LXK9301
  * @Date: 2020-11-03 20:35:07
- * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2021-01-19 11:36:06
+ * @Last Modified by: LXK9301
+ * @Last Modified time: 2020-11-23 12:27:09
  摇京豆(京东APP首页-领京豆-摇京豆)
  更新时间:2020-10-12
  Modified from https://github.com/Zero-S1/JD_tools/blob/master/JD_vvipclub.py
